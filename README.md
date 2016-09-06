@@ -21,3 +21,15 @@ $ git clone https://github.com/joanbono/Keydnap_Checker.git
 $ cd Keydnap_Checker
 $ bash Keydnap_Checker.sh
 ~~~
+
+The Keydnap_Checker looks for known files created by the malware:
+
++ /Applications/Transmission.app/Contents/Resources/License.rtf
++ /Volumes/Transmission/Transmission.app/Contents/Resources/License.rtf
++ $HOME/Library/Application Support/com.apple.iCloud.sync.daemon/icloudsyncd
++ $HOME/Library/Application Support/com.apple.iCloud.sync.daemon/process.id
++ $HOME/Library/LaunchAgents/com.apple.iCloud.sync.daemon.plist
++ /Library/Application Support/com.apple.iCloud.sync.daemon/
++ $HOME/Library/LaunchAgents/com.geticloud.icloud.photo.plist
+
+And asks the user for its deletion.
