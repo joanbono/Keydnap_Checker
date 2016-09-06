@@ -5,3 +5,15 @@ Keydnap malware checker
 
 <a href="http://www.welivesecurity.com/2016/08/30/osxkeydnap-spreads-via-signed-transmission-application">welivesecurity new</a>
 
+###USAGE
+
+~~~bash
+$ chmod +x Keydnap_Checker.sh
+$ ./Keydnap_Checker.sh
+~~~
+
+OR
+
+~~~bash
+$ bash Keydnap_Checker.sh
+~~~
