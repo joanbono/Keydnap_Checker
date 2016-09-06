@@ -8,6 +8,8 @@ Keydnap malware checker
 ###USAGE
 
 ~~~bash
+$ git clone https://github.com/joanbono/Keydnap_Checker.git
+$ cd Keydnap_Checker
 $ chmod +x Keydnap_Checker.sh
 $ ./Keydnap_Checker.sh
 ~~~
@@ -15,5 +17,7 @@ $ ./Keydnap_Checker.sh
 OR
 
 ~~~bash
+$ git clone https://github.com/joanbono/Keydnap_Checker.git
+$ cd Keydnap_Checker
 $ bash Keydnap_Checker.sh
 ~~~
