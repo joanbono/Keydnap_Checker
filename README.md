@@ -9,7 +9,7 @@ Link to <a href="http://www.welivesecurity.com/2016/08/30/osxkeydnap-spreads-via
 
 ~~~bash
 $ git clone https://github.com/joanbono/Keydnap_Checker.git
-$ cd Keydnap_Checker
+$ cd Keydnap_Checker/src/
 $ chmod +x Keydnap_Checker.sh
 $ ./Keydnap_Checker.sh
 ~~~
@@ -18,7 +18,7 @@ OR
 
 ~~~bash
 $ git clone https://github.com/joanbono/Keydnap_Checker.git
-$ cd Keydnap_Checker
+$ cd Keydnap_Checker/src/
 $ bash Keydnap_Checker.sh
 ~~~
 
