@@ -5,7 +5,7 @@ Keydnap malware checker
 
 Link to <a href="http://www.welivesecurity.com/2016/08/30/osxkeydnap-spreads-via-signed-transmission-application">welivesecurity new</a>
 
-###USAGE
+### USAGE
 
 ~~~bash
 $ git clone https://github.com/joanbono/Keydnap_Checker.git
